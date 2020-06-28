@@ -1,0 +1,12 @@
+#george-img {
+  align-items: center;
+}
+
+#george-img img {
+  max-width: 500px;
+  max-height: 500px;
+
+  border: 14px solid #000;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
