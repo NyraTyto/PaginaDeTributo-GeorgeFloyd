@@ -16,4 +16,4 @@
 
 <hr>
 
-<h3 align="center"><a href="https://nyratyto.github.io/PaginaDeTributo-GeorgeFloyd/">Acessar a página</a><h3>
+<h3 align="center"><a href="https://nyratyto.github.io/pagina-de-tributo_george-floyd/" target="_blank">Acessar a página</a><h3>
